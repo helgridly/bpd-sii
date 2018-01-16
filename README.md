@@ -10,3 +10,5 @@ Included in the repo:
 * `sii.html`, a copy of the Surveillance Industry Index's homepage saved 2018-01-07;
 * `bpd_sii.ipynb`, the actual code;
 * `purchases.csv`, a list of BPD purchases matching vendors listed on the Surveillance Industry Index, from the above two source files.
+
+Because `ledger.csv` is a large file, you may need to install [Git Large File Storage](https://git-lfs.github.com/) in order to work with it.
